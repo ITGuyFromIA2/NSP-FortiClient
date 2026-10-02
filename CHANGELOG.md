@@ -7,3 +7,6 @@ All notable changes to NSP.FortiClient are documented here. Versions follow
 
 First release: the zip-era FCT toolkit (NSP-FGTIPSecTools 1.0.0) as a module - the menu, the five
 diagnostic scripts behind public functions, Get-NSPFortiGateDiagnosticCommand, a launcher.
+
+The other NSP modules it needs are installed from the PowerShell Gallery the first time they're needed,
+so `Install-Module` of this one module is enough. Set `NSP_NO_AUTOINSTALL=1` to turn that off.
