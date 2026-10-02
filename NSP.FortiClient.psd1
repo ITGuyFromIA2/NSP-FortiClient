@@ -1,6 +1,6 @@
 @{
     RootModule        = 'NSP.FortiClient.psm1'
-    ModuleVersion     = '0.1.0'
+    ModuleVersion     = '0.1.1'
     GUID              = 'd1c5255e-efc5-4619-a4a5-b9b85f91f14b'
     Author            = 'Network Systems Plus'
     CompanyName       = 'Network Systems Plus'
