@@ -1,0 +1,2 @@
+# Not linted yet: moved verbatim from the zip-era FCT toolkit.
+Scripts\*
